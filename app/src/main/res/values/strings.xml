@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">IntroSlider</string>
+    <!-- slider activities common -->
+    <string name="name_btn_next">Next</string>
+    <string name="name_btn_skip">Skip</string>
+    <string name="name_btn_start">Start</string>
+
+    <!-- slide 1 -->
+    <string name="slide_1_title">Basketball</string>
+    <string name="slide_1_desc">バスケットボール</string>
+
+    <!-- slide 2 -->
+    <string name="slide_2_title">Soccer</string>
+    <string name="slide_2_desc">サッカー</string>
+
+    <!-- slide 3 -->
+    <string name="slide_3_title">Tennis</string>
+    <string name="slide_3_desc">テニス</string>
+
+    <!-- slide 4 -->
+    <string name="slide_4_title">Golf</string>
+    <string name="slide_4_desc">ゴルフ</string>
+</resources>

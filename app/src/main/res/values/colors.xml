@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="color_white">#FFFFFF</color>
+
+    <!-- Background -->
+    <color name="bg_slide_1">#2196F3</color>
+    <color name="bg_slide_2">#4CAF50</color>
+    <color name="bg_slide_3">#FF9800</color>
+    <color name="bg_slide_4">#8BC34A</color>
+
+    <!-- Text Color -->
+    <color name="txt_slide_1">#FFFFFF</color>
+    <color name="txt_slide_2">#FFFFFF</color>
+    <color name="txt_slide_3">#FFFFFF</color>
+    <color name="txt_slide_4">#FFFFFF</color>
+
+    <!-- Dots inactive -->
+    <color name="dot_inactive_slide_1">#0D47A1</color>
+    <color name="dot_inactive_slide_2">#1B5E20</color>
+    <color name="dot_inactive_slide_3">#E65100</color>
+    <color name="dot_inactive_slide_4">#33691E</color>
+
+    <!-- Dots active -->
+    <color name="dot_active_slide_1">#E3F2FD</color>
+    <color name="dot_active_slide_2">#E8F5E9</color>
+    <color name="dot_active_slide_3">#FFF3E0</color>
+    <color name="dot_active_slide_4">#F1F8E9</color>
+    
+    <array name="dot_active_array">
+        <item>@color/dot_active_slide_1</item>
+        <item>@color/dot_active_slide_2</item>
+        <item>@color/dot_active_slide_3</item>
+        <item>@color/dot_active_slide_4</item>
+    </array>
+
+    <array name="dot_inactive_array">
+        <item>@color/dot_inactive_slide_1</item>
+        <item>@color/dot_inactive_slide_2</item>
+        <item>@color/dot_inactive_slide_3</item>
+        <item>@color/dot_inactive_slide_4</item>
+    </array>
+</resources>
